@@ -1,0 +1,45 @@
+h1 {
+  text-align: center;
+  color: brown;
+  font-family: cursive;
+}
+
+button {
+  margin: auto;
+  display: flex;
+  margin-top: 27px;
+  padding: 7px;
+  width: 136px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  outline: none;
+  border: 1px solid white;
+  background-color: #eb3f63;
+  color: #08284f;
+}
+
+#inp,
+#output {
+  width: 300px;
+  height: 250px;
+  background: #efefef;
+  border: 1px solid #ccc;
+  font-size: 1.25rem;
+}
+
+#lang {
+  padding: 3px;
+  width: 126px;
+  color: crimson;
+  border: 1px solid green;
+}
+
+.option {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 6px;
+  color: brown;
+  margin-bottom: 38px;
+}
